@@ -1,0 +1,39 @@
+C:\Users\SergeyA\Documents\visual studio\Projects\CG2\CG2\bin\Debug\CG2.exe.config
+C:\Users\SergeyA\Documents\visual studio\Projects\CG2\CG2\bin\Debug\CG2.exe
+C:\Users\SergeyA\Documents\visual studio\Projects\CG2\CG2\bin\Debug\CG2.pdb
+C:\Users\SergeyA\Documents\visual studio\Projects\CG2\CG2\bin\Debug\MatrixLibrary.dll
+C:\Users\SergeyA\Documents\visual studio\Projects\CG2\CG2\obj\Debug\CG2.csprojResolveAssemblyReference.cache
+C:\Users\SergeyA\Documents\visual studio\Projects\CG2\CG2\obj\Debug\CG2.CG2.resources
+C:\Users\SergeyA\Documents\visual studio\Projects\CG2\CG2\obj\Debug\CG2.Properties.Resources.resources
+C:\Users\SergeyA\Documents\visual studio\Projects\CG2\CG2\obj\Debug\CG2.csproj.GenerateResource.Cache
+C:\Users\SergeyA\Documents\visual studio\Projects\CG2\CG2\obj\Debug\CG2.exe
+C:\Users\SergeyA\Documents\visual studio\Projects\CG2\CG2\obj\Debug\CG2.pdb
+C:\Users\Ivan\Dropbox\5 semestr\Алейников\КГ\ЛР2\CG2\CG2\bin\Debug\CG2.exe.config
+C:\Users\Ivan\Dropbox\5 semestr\Алейников\КГ\ЛР2\CG2\CG2\obj\Debug\CG2.exe
+C:\Users\Ivan\Dropbox\5 semestr\Алейников\КГ\ЛР2\CG2\CG2\obj\Debug\CG2.pdb
+C:\Users\SergeyA\Dropbox\5 semestr\Алейников\КГ\ЛР2\CG2_1\CG2\bin\Debug\CG2.exe.config
+C:\Users\SergeyA\Dropbox\5 semestr\Алейников\КГ\ЛР2\CG2_1\CG2\obj\Debug\CG2.exe
+C:\Users\SergeyA\Dropbox\5 semestr\Алейников\КГ\ЛР2\CG2_1\CG2\obj\Debug\CG2.pdb
+C:\Users\SergeyA\Dropbox\5 semestr\Алейников\КГ\ЛР2\CG2_1\CG2\bin\Debug\CG2.exe
+C:\Users\SergeyA\Dropbox\5 semestr\Алейников\КГ\ЛР2\CG2_1\CG2\bin\Debug\CG2.pdb
+C:\Users\SergeyA\Dropbox\5 semestr\Алейников\КГ\ЛР2\CG2_1\CG2\bin\Debug\MatrixLibrary.dll
+C:\Users\SergeyA\Dropbox\5 semestr\Алейников\КГ\ЛР2\CG2_1\CG2\obj\Debug\CG2.csprojResolveAssemblyReference.cache
+C:\Users\SergeyA\Dropbox\5 semestr\Алейников\КГ\ЛР2\CG2_1\CG2\obj\Debug\CG2.CG2.resources
+C:\Users\SergeyA\Dropbox\5 semestr\Алейников\КГ\ЛР2\CG2_1\CG2\obj\Debug\CG2.Properties.Resources.resources
+C:\Users\SergeyA\Dropbox\5 semestr\Алейников\КГ\ЛР2\CG2_1\CG2\obj\Debug\CG2.csproj.GenerateResource.Cache
+H:\Dropbox\6 semestr\Алейников\КГ\ЛР2\CG2_1\CG2\bin\Debug\CG2.exe.config
+H:\Dropbox\6 semestr\Алейников\КГ\ЛР2\CG2_1\CG2\obj\Debug\CG2.exe
+H:\Dropbox\6 semestr\Алейников\КГ\ЛР2\CG2_1\CG2\obj\Debug\CG2.pdb
+C:\Users\SergeyA\Dropbox\6 semestr (1)\Алейников\КГ\ЛР2\CG2_1\CG2\bin\Debug\CG2.exe.config
+C:\Users\SergeyA\Dropbox\6 semestr (1)\Алейников\КГ\ЛР2\CG2_1\CG2\obj\Debug\CG2.exe
+C:\Users\SergeyA\Dropbox\6 semestr (1)\Алейников\КГ\ЛР2\CG2_1\CG2\obj\Debug\CG2.pdb
+C:\Users\SergeyA\Dropbox\6 semestr (1)\Алейников\КГ\ЛР2\CG2_1\CG2\bin\Debug\CG2.exe
+C:\Users\SergeyA\Dropbox\6 semestr (1)\Алейников\КГ\ЛР2\CG2_1\CG2\bin\Debug\CG2.pdb
+C:\Users\SergeyA\Dropbox\6 semestr (1)\Алейников\КГ\ЛР2\CG2_1\CG2\bin\Debug\MatrixLibrary.dll
+C:\Users\SergeyA\Dropbox\6 semestr (1)\Алейников\КГ\ЛР2\CG2_1\CG2\obj\Debug\CG2.csprojResolveAssemblyReference.cache
+C:\Users\SergeyA\Dropbox\6 semestr (1)\Алейников\КГ\ЛР2\CG2_1\CG2\obj\Debug\CG2.CG2.resources
+C:\Users\SergeyA\Dropbox\6 semestr (1)\Алейников\КГ\ЛР2\CG2_1\CG2\obj\Debug\CG2.Properties.Resources.resources
+C:\Users\SergeyA\Dropbox\6 semestr (1)\Алейников\КГ\ЛР2\CG2_1\CG2\obj\Debug\CG2.csproj.GenerateResource.Cache
+C:\Users\Ivan\Dropbox\6 semestr\Алейников\КГ\ЛР2\CG2_1\CG2\bin\Debug\CG2.exe.config
+C:\Users\Ivan\Dropbox\6 semestr\Алейников\КГ\ЛР2\CG2_1\CG2\obj\Debug\CG2.exe
+C:\Users\Ivan\Dropbox\6 semestr\Алейников\КГ\ЛР2\CG2_1\CG2\obj\Debug\CG2.pdb
